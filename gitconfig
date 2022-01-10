@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = susannahtay@gmail.com
+	name = Susannah Taylor
